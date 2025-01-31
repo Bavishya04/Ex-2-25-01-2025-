@@ -1,0 +1,7 @@
+auist@TF076:~/Documents/r2024115033/q11$ gcc -o si si.c
+auist@TF076:~/Documents/r2024115033/q11$ ./si
+Enter the principal amount: 20000 
+Enter the rate of interest (in percentage): 10
+Enter the time period (in years): 2
+The simple interest is: 4000.00
+
