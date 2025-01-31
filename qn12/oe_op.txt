@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/q12$ gcc -o oe oe.c
+auist@TF076:~/Documents/r2024115033/q12$ ./oe
+Enter a number: 3
+3 is odd.
+
