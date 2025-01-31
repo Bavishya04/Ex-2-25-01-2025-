@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/q15$ gcc -o dic dic.c
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/q15$ ./dic
+Enter the price of the purchase: 1000
+Discount: $200.00
+Final Price after Discount: $800.00
+
