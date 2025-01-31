@@ -1,0 +1,7 @@
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn18$ gcc -o bmi bmi.c
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn18$ ./bmi
+Enter your weight (in kilograms): 55
+Enter your height (in meters): 1.5
+Your BMI is: 24.44
+You have a normal weight.
+
