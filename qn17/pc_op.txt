@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn17$ gcc -o pc pc.c
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn17$ ./pc
+Enter a number: 2
+2 is a prime number.
+
