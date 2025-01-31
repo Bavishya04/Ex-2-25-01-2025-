@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/qn7$ gcc -o temp temp.c
+auist@TF076:~/Documents/r2024115033/qn7$ ./temp
+Enter temperature in Celsius: 25
+Temperature in Fahrenheit: 77.00 
+
