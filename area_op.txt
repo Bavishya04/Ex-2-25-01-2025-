@@ -1,0 +1,4 @@
+auist@TF076:~/Documents/r2024115033$ gcc -o area area.c
+auist@TF076:~/Documents/r2024115033$ ./area
+Area:12.560000 
+
