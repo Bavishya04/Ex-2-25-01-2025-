@@ -1,0 +1,28 @@
+include <stdio.h>
+#include <ctype.h>  // For isdigit(), isupper(), and islower()
+
+int main() {
+    char ch;
+
+    // Input a character
+    printf("Enter a character: ");
+    scanf("%c", &ch);
+
+    // Check if the character is an uppercase letter
+    if (isupper(ch)) {
+        printf("%c is an uppercase letter.\n", ch);
+    }
+    // Check if the character is a lowercase letter
+    else if (islower(ch)) {
+        printf("%c is a lowercase letter.\n", ch);
+    }
+    // Check if the character is a number (digit)
+    else if (isdigit(ch)) {
+        printf("%c is a number.\n", ch);
+    }
+    else {
+        printf("%c is neither an uppercase letter, lowercase letter, nor a number.\n", ch);
+    }
+
+    return 0;
+}
