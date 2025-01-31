@@ -1,0 +1,7 @@
+auist@TF076:~/Documents/r2024115033/qn5$ gcc -o large large.c
+auist@TF076:~/Documents/r2024115033/qn5$ ./large
+Enter the 1st number: 2
+Enter the 2nd number: 7
+Enter the 3rd number: 1
+The largest number is 7
+
