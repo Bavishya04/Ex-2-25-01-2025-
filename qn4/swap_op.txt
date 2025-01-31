@@ -1,0 +1,9 @@
+auist@TF076:~/Documents/r2024115033/qn4$ gcc -o swap swap.c
+auist@TF076:~/Documents/r2024115033/qn4$ ./swap
+Enter a: 
+2
+Enter b: 
+3
+Before Swapping : a=2 , b=3 
+After Swapping : a=3 , b=2 
+
