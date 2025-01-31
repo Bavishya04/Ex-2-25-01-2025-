@@ -1,0 +1,10 @@
+auist@TF076:~/Documents/r2024115033$ gcc -o num num.c
+auist@TF076:~/Documents/r2024115033$ ./num
+Enter num=2
+The number is positiveauist@TF076:~/Documents/r2024115033$ gcc -o num num.c
+auist@TF076:~/Documents/r2024115033$ ./num
+Enter num=-6
+The number is negativeauist@TF076:~/Documents/r2024115033$ gcc -o num num.c
+auist@TF076:~/Documents/r2024115033$ ./num
+Enter num=0
+The number is 0
