@@ -1,0 +1,9 @@
+auist@TF076:~/Documents/r2024115033/q13$ gcc -o ls ls.c
+auist@TF076:~/Documents/r2024115033/q13$ ./ls
+Enter three numbers: 2
+3
+4
+Largest number is: 4
+Smallest number is: 2
+
+
