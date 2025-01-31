@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/qn8$ gcc -o grade grade.c
+auist@TF076:~/Documents/r2024115033/qn8$ ./grade
+Enter the marks of the student: 80
+Grade: B
+
