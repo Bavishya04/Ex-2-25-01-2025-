@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/q14$ gcc -o char char.c
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/q14$ ./char
+Enter a character: 4
+4 is a digit.
+
