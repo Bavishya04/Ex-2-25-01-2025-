@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/qn6$ gcc -o vc vc.c
+auist@TF076:~/Documents/r2024115033/qn6$ ./vc
+Enter a character: g
+g is a consonant.
+
