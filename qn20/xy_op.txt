@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn20$ gcc -o xy xy.c
+auist@TF076:~/Documents/r2024115033/Ex2 25-01-2025/qn20$ ./xy
+Enter the x coordinate: 4
+Enter the y coordinate: 6
+The point is in Quadrant 1.
+
